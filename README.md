@@ -6,6 +6,9 @@ Script to auto restart the mission after 10 hours of playtime
 - When the 10 hours are done, the script will check if players are still online.
 - When the last player is disconnecting (after the 10 hours), the script reboot the mission
 
+<ins>What I ask in exchange?</ins>
+- Mention a small credit to me in your server/mission :) 
+
 <ins>How to install it?</ins>
 - shutdown your server
 - download the file
